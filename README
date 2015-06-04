@@ -1,1 +1,1 @@
-Currently WIP Tic Tac Toe AI to play against itself to learn all of the game states, then play perfect games when against a human opponent.
+Currently WIP Tic Tac Toe AI to play against itself to learn all of the game states, then play perfect games when against a human opponent. At the moment it uses Breadth-First Search to write the game states, however the states quickly multiply, leaving it unable to finish. There are other methods to shorten the game tree, however for now I am going to work on another project.
